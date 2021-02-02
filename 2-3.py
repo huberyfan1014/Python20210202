@@ -1,0 +1,13 @@
+import turtle,time
+tt = turtle.Turtle()
+tt.color('blue')
+tt.forward(200)
+#time.sleep(1)
+tt.left(90)
+tt.forward(200)
+#time.sleep(1)
+tt.left(90)
+tt.forward(200)
+#time.sleep(1)
+tt.left(90)
+tt.forward(200)
